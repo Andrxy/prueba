@@ -5,7 +5,7 @@ int main() {
 
     cout << "Probando Git";
 
-    cout << "Hola Nacho";
+    cout << "Hola Nacho, puntero premium";
 
     int x = 10;
 
