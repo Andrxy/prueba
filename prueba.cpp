@@ -7,5 +7,7 @@ int main() {
 
     cout << "Hola Nacho";
 
+    int x = 10;
+
     return 0;
 }
